@@ -69,4 +69,8 @@
       }
     }
   ]
+  "url": "https://github.com/astvictor92/Master_Goose_Ravenloft",
+  "manifest": "https://raw.githubusercontent.com/astvictor92/Master_Goose_Ravenloft/main/module.json",
+  "download": "https://github.com/astvictor92/Master_Goose_Ravenloft/archive/refs/heads/main.zip",
+  "license": "MIT"
 }
